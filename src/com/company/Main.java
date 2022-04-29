@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Samochod samochod = new Samochod();
         int seria = samochod.getSeriaSilnika();
-        System.out.println("Nazwa silnika to: " + " " + seria);
+        System.out.println("Nazwaa silnika to: " + " " + seria);
     }
 }
 
